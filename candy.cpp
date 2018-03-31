@@ -11,6 +11,7 @@
 
 #include <iostream>
 #include <fstream>
+#include <stdlib.h>
 using namespace std;
 
 long long candyAlgorithm(int n, int s, int l){
